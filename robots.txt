@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kepafe.github.io/palonesmktdigital/sitemap.xml
